@@ -23,7 +23,7 @@ It reduces congestion, improves traffic flow, and adapts dynamically to changing
 | **AI/ML Frameworks** | TensorFlow • PyTorch (if used) |
 | **Computer Vision / Image Processing** | OpenCV |
 | **GUI / Visualization** | Tkinter • Matplotlib / Seaborn (optional) |
-| **Database (if applicable)** | SQLite / MySQL (if storing logs) |
+| **Database (if applicable)** | MongoDB |
 | **Version Control** | Git • GitHub |
 | **Build / Dependency Management** | pip / requirements.txt |
 | **Other Integrations** | Traffic simulation scripts • CSV/JSON data handling |
@@ -94,6 +94,7 @@ It reduces congestion, improves traffic flow, and adapts dynamically to changing
 
 ---
 ---
+
 
 **🤝 Collaboration & Contact**
 
